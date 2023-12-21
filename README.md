@@ -1,6 +1,6 @@
 # 👋🏻 Hello, I am Abhinav
 
-I am passionate DevOps engineer with a mission to automate everything. My expertise lies in:
+I am a passionate DevOps engineer with a mission to automate everything. My expertise lies in:
 - **DevOps Practices:** Implement best practices for continuous integration, continuous delivery and continuous deployment.
 - **Containerization:** Create scalable and portable applications using Docker / Kubernetes.
 - **Infrastructure as Code (IaC):** Using tools like Terraform and Ansible to define and manager infrastructure.
