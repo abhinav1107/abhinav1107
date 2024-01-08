@@ -37,14 +37,16 @@ My expertise are:
 
 Feel free to explore my repositories and reach out to me if you have any questions or collaboration ideas. Happy coding! 🚀
 
-## Recent Blog Posts
+***
+
+[blog](https://abhinav.ltd) updates 🔔:
+
 <!-- BLOG-POST-LIST:START -->
 - [Direnv](https://abhinav.ltd/posts/direnv/)
 - [Restarting Pod on ConfigMap or Secret Updates](https://abhinav.ltd/posts/reloader/)
 - [First Blog Post](https://abhinav.ltd/posts/introduction/)
 - [Introduction](https://abhinav.ltd/about/)
 <!-- BLOG-POST-LIST:END -->
-
 
 <p> <img src="https://komarev.com/ghpvc/?username=abhinav1107&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav1107" /> <img src="https://github.com/abhinav1107/abhinav1107/actions/workflows/recent.yml/badge.svg" alt="abhinav1107" /> </p>
 
