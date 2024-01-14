@@ -44,9 +44,9 @@ Feel free to explore my repositories and reach out to me if you have any questio
 [blog](https://abhinav.ltd) updates 🔔:
 
 <!-- BLOG-POST-LIST:START -->
-- [Direnv](https://abhinav.ltd/posts/direnv/)
-- [Restarting Pod on ConfigMap or Secret Updates](https://abhinav.ltd/posts/reloader/)
-- [First Blog Post](https://abhinav.ltd/posts/introduction/)
+- [Direnv](https://abhinav.ltd/posts/direnv/direnv/)
+- [Restarting Pods on ConfigMap or Secret Updates](https://abhinav.ltd/posts/reloader/)
+- [First Blog Post](https://abhinav.ltd/posts/hello/)
 - [Introduction](https://abhinav.ltd/about/)
 <!-- BLOG-POST-LIST:END -->
 
