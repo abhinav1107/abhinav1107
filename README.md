@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/abhinav1107/">
         <img alt="Static Badge" src="https://img.shields.io/badge/-%40abhinav1107-blue?style=for-the-badge&logo=linkedin&color=%231866be">
     </a>
-    <a href="https://twitter.com/scott_mckendry">
+    <a href="https://twitter.com/abhinav1107">
         <img alt="Twitter" src="https://img.shields.io/badge/-%40abhinav1107-blue?style=for-the-badge&logo=x&color=%2315161e">
     </a>
 </p>
