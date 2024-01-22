@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://abhinav.ltd">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://abhinav.ltd/img/logo.webp">
-            <img src="https://abhinav.ltd/img/logo.webp" height="100">
+            <source media="(prefers-color-scheme: dark)" srcset="https://abhinav.ltd/img/logo-black-transparent.webp">
+            <img src="https://abhinav.ltd/img/logo-black-transparent.webp" height="100">
         </picture>
     <h1 align="center">Abhinav.K - Senior DevOps Architect</h1>
     </a>
