@@ -26,8 +26,6 @@
 
 ***
 
-<p> <img src="https://komarev.com/ghpvc/?username=abhinav1107&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav1107" /> <img src="https://github.com/abhinav1107/abhinav1107/actions/workflows/recent.yml/badge.svg" alt="abhinav1107" /> </p>
-
 ## About Me
 👋🏻 Hi. I'm Abhinav. I am a passionate DevOps engineer with a mission to automate everything.
 
