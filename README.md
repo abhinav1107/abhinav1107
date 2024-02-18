@@ -42,6 +42,8 @@ Feel free to explore my repositories and reach out to me if you have any questio
 [blog](https://abhinav.ltd) updates 🔔:
 
 <!-- BLOG-POST-LIST:START -->
+- [ArgoCD App of Apps](https://abhinav.ltd/posts/argocd-app-of-apps/)
+- [Favourite Quotes](https://abhinav.ltd/quotes/)
 - [Direnv](https://abhinav.ltd/posts/direnv/direnv/)
 - [Restarting Pods on ConfigMap or Secret Updates](https://abhinav.ltd/posts/reloader/)
 - [First Blog Post](https://abhinav.ltd/posts/hello/)
