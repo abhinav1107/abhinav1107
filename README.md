@@ -4,7 +4,7 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://abhinav.ltd/img/logo-black-transparent.webp">
             <img src="https://abhinav.ltd/img/logo-black-transparent.webp" height="100">
         </picture>
-    <h1 align="center">Abhinav.K - Senior DevOps Architect</h1>
+    <h1 align="center">Abhinav.K - Senior DevOps Engineer</h1>
     </a>
 </p>
 
