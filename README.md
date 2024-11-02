@@ -8,18 +8,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://abhinav.ltd">
-        <img alt="Static Badge" src="https://img.shields.io/badge/-blog-blue?style=for-the-badge&logo=firefox&logoColor=%23fff&color=%23334460">
-    </a>
-    <a href="https://www.linkedin.com/in/abhinav1107/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/-%40abhinav1107-blue?style=for-the-badge&logo=linkedin&color=%231866be">
-    </a>
-    <a href="https://twitter.com/abhinav1107">
-        <img alt="Twitter" src="https://img.shields.io/badge/-%40abhinav1107-blue?style=for-the-badge&logo=x&color=%2315161e">
-    </a>
-</p>
-
 <p align="center"> 
     <img alt="github streak" src="https://github-readme-stats.vercel.app/api?username=abhinav1107&show_icons=true&theme=transparent&include_all_commits=true">
 </p>
