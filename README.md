@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://abhinav.ltd">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhinav1107/abhinav1107/blob/3b7aebc71d29546df820fe3db6e862e66941904e/files/1704508966995.jpg">
-            <img src="https://github.com/abhinav1107/abhinav1107/blob/3b7aebc71d29546df820fe3db6e862e66941904e/files/1704508966995.jpg" height="200">
+            <source media="(prefers-color-scheme: dark)" srcset="https://abhinav.ltd/img/logo-black-transparent.webp">
+            <img src="https://abhinav.ltd/img/logo-black-transparent.webp" height="100">
         </picture>
     <h1 align="center">Abhinav.K - Senior DevOps Architect</h1>
     </a>
