@@ -30,11 +30,12 @@ Feel free to explore my repositories and reach out to me if you have any questio
 [blog](https://abhinav.ltd) updates 🔔:
 
 <!-- BLOG-POST-LIST:START -->
-- [Restarting Pods on ConfigMap or Secret Updates](https://abhinav.ltd/posts/reloader/)
 - [ArgoCD App of Apps](https://abhinav.ltd/posts/argocd-app-of-apps/)
+- [Favourite Quotes](https://abhinav.ltd/quotes/)
 - [Direnv](https://abhinav.ltd/posts/direnv/direnv/)
-- [Introduction](https://abhinav.ltd/about/)
+- [Restarting Pods on ConfigMap or Secret Updates](https://abhinav.ltd/posts/reloader/)
 - [First Blog Post](https://abhinav.ltd/posts/hello/)
+- [Introduction](https://abhinav.ltd/about/)
 <!-- BLOG-POST-LIST:END -->
 
 
